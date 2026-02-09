@@ -56,3 +56,28 @@ Through structured metadata engineering.
 
 ## 📂 Repository Structure
 
+MetaRAG-LC/
+│
+├── ingestion/
+├── metadata/
+├── embedding/
+├── retrieval/
+├── evaluation/
+├── configs/
+└── main.py
+
+
+---
+
+## 🧪 Research Direction
+
+MetaRAG-LC is designed for experimentation in:
+
+- Metadata augmentation strategies  
+- Embedding ablation studies  
+- Retrieval performance benchmarking  
+- Hybrid retrieval optimization  
+
+---
+
+
