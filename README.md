@@ -19,6 +19,8 @@ MetaRAG-LC improves retrieval precision by **engineering the representation laye
 
 ## Architecture
 
+![MetaRAG-LC Architecture](MetaRAG-LC%20Architecture.png)
+
 ### Offline Indexing Pipeline (Compute-Heavy, Run Once)
 ```
 Document Sources → Ingestion → Semantic Chunking → 
