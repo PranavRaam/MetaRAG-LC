@@ -1,0 +1,23 @@
+This is a sample text document for testing the document loader.
+
+== Introduction ==
+
+This file demonstrates how the DocumentLoader handles plain text files.
+Each file is loaded with its metadata including source, file path, and file type.
+
+== Key Features ==
+
+1. Supports multiple formats (PDF, TXT, MD)
+2. Attaches structural metadata
+3. Preserves document identity
+4. Enables traceability
+
+== How It Works ==
+
+The loader reads files from disk and creates Document objects.
+Each document contains:
+- Raw text content
+- Metadata dict with source, path, file_type, document_id
+- Page information (for PDFs)
+
+This establishes the foundation for the rest of the pipeline.

@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-ollama
+PyPDF2
+chromadb
+sentence-transformers
+ollama
+pydantic
+pyyaml
+unstructured
